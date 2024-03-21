@@ -1,0 +1,1 @@
+This program takes integer inputs from the user until a negative value is received. Once a negative, value is received, duplicate values are removed and the remaining unique values are sorted and output to console.
